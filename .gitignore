@@ -4,3 +4,5 @@ temp/
 .db
 .cut
 webserver_config.py
+.pyc
+.sh
