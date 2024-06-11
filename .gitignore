@@ -1,8 +1,8 @@
-logs/
-temp/
-.pid
-.db
-.cut
+/logs/
+/temp/
+*.pid
+*.db
+*.cut
 webserver_config.py
-.pyc
-.sh
+*.pyc
+*.sh

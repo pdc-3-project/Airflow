@@ -4644,3 +4644,10 @@ TypeError: not all arguments converted during string formatting
 [[34m2024-06-11T07:22:32.977+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
 [[34m2024-06-11T07:22:41.343+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
 [[34m2024-06-11T07:23:41.397+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
+[[34m2024-06-11T07:24:41.448+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
+207.174.40.193 - - [11/Jun/2024:07:24:43 +0000] "POST / HTTP/1.1" 405 463 "-" "Go-http-client/1.1"
+207.174.40.193 - - [11/Jun/2024:07:24:51 +0000] "POST / HTTP/1.1" 405 463 "-" "Go-http-client/1.1"
+[[34m2024-06-11T07:25:41.501+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
+[[34m2024-06-11T07:26:41.557+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
+[[34m2024-06-11T07:27:33.012+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
+[[34m2024-06-11T07:27:41.611+0000[0m] {[34mtriggerer_job_runner.py:[0m481} INFO[0m - 0 triggers currently running[0m
