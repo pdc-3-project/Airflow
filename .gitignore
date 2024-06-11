@@ -1,0 +1,6 @@
+logs/
+temp/
+.pid
+.db
+.cut
+webserver_config.py
